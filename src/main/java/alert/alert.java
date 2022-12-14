@@ -23,8 +23,8 @@ package alert;
 	Thread.sleep(3000);
 	driver.switchTo().alert().dismiss();
 	
-	builder.contextClick(droppHere);
-	builder.doubleClick(droppHere);
+//	builder.contextClick(droppHere);
+//	builder.doubleClick(droppHere);
 
 	}
 

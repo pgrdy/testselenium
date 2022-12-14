@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-13T18:56:39 GMT-08:00" name="Default suite" finished-at="2022-12-13T18:56:45 GMT-08:00" duration-ms="5940">
+    <groups>
+    </groups>
+    <test started-at="2022-12-13T18:56:39 GMT-08:00" name="Default test" finished-at="2022-12-13T18:56:45 GMT-08:00" duration-ms="5940">
+      <class name="test.Testngannotations">
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:test.Testngannotations@d5b810e]" started-at="2022-12-13T18:56:39 GMT-08:00" name="launchUrl" finished-at="2022-12-13T18:56:45 GMT-08:00" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="myMethod()[pri:0, instance:test.Testngannotations@d5b810e]" started-at="2022-12-13T18:56:45 GMT-08:00" name="myMethod" finished-at="2022-12-13T18:56:45 GMT-08:00" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.Testngannotations@d5b810e]" started-at="2022-12-13T18:56:45 GMT-08:00" name="afterClass" finished-at="2022-12-13T18:56:45 GMT-08:00" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.Testngannotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
